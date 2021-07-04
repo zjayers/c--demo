@@ -3,6 +3,5 @@ project(TripleX)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TripleX
-        TripleX.cpp)
+add_executable(TripleX TripleXV2.cpp)
 
